@@ -9,7 +9,7 @@ class basics {
 String Mobile ;
 	basics () 
 	        {
-		Name = "Anil kumar";
+		Name = "Adarsh Yadav";
 		CollegeName="LPU";
 		DOB = "17-05-2000";
 		Mobile ="9877449284";
